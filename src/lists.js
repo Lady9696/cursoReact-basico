@@ -36,7 +36,7 @@ const CONTACTS = [
         name: "Emoji Sarcasmo",
         imgURL:
           "sarcasmo.jpg",
-        phodescription: "El emoji que blanquea los ojos  significa generalmente frustración, desaprobación o sarcasmo. Es usado para expresar desinterés o irritación ante un comentario o situación.",
+        description: "El emoji que blanquea los ojos  significa generalmente frustración, desaprobación o sarcasmo. Es usado para expresar desinterés o irritación ante un comentario o situación.",
         email: "gato@gato.com",
       },
   ];
